@@ -1,0 +1,11 @@
+# Binarios de C++
+*.o
+*.exe
+*.out
+programa
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
